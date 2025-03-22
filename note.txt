@@ -1,0 +1,10 @@
+Bootstrap Color:
+
+1. success
+2. info
+3. warning
+4. danger
+5. dark
+6. light
+7. primary
+8. secondary
